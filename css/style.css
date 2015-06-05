@@ -1,0 +1,51 @@
+body {
+	font-family: "Lato", sans-serif;
+	color: #808080;
+	font-weight: 300;
+}
+
+.text-muted {
+	color: #bcb;
+}
+
+.main-title {
+	font-weight: 100;
+	font-size: 60px;
+	text-align: right;
+}
+
+.sub-title {
+	text-transform: uppercase;
+	text-align: right;
+}
+
+hr {
+	border: 0;
+	width: 99%;
+	background-color: #ccc;
+	height: 2px;
+}
+
+img.logo-image {
+	height: 150;
+	width: 150;
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+img.banner-image {
+	height: 538;
+	width: 1200;
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+img.footer-image {
+	height: 300;
+	width: 555;
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
